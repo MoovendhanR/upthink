@@ -1,10 +1,11 @@
 import './App.css';
+import EmojiSearch from './Componets/EmojiSearch';
 
 function App() {
   return (
     <div className="App">
-     hello world
-    </div>
+         <EmojiSearch/>
+     </div>
   );
 }
 
