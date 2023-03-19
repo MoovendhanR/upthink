@@ -1,4 +1,4 @@
-### Weather app.
+### Emoji Searcher.
 
 See the section about [demo](https://emoji-searcher-rho.vercel.app/) for more information.
 
